@@ -2,7 +2,7 @@
 analyzing lorenz system by simulation [through questions given by opho 2023] by plotting diagrams and using methods to analyze its behaviour.
 
 
-#A bit about lorenz system
+##About lorenz system
 
 The lorenz system is a set of three differential equations that describe chaotic flow. it’s often used to study weather and dynamical systems. the equations are:
 
